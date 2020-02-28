@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "436845694682",
+    "firebase_url": "https://iotproj-ad777.firebaseio.com",
+    "project_id": "iotproj-ad777",
+    "storage_bucket": "iotproj-ad777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436845694682:android:cef31da88aa847894bdfe3",
+        "android_client_info": {
+          "package_name": "com.example.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436845694682-erc2bfq9cpvbfn6fo32f0g9mq13oe8rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRBlmTkzJgI9aB818iY-exIzldQOrrIOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436845694682-erc2bfq9cpvbfn6fo32f0g9mq13oe8rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436845694682:android:7822c4be456d6a1c4bdfe3",
+        "android_client_info": {
+          "package_name": "com.example.iotproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436845694682-mdqaj5kd8mm6h56nrisqll44rdl44vbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iotproj",
+            "certificate_hash": "c3998f81ef73b0e0fed37a176cc2c8fd2d444b13"
+          }
+        },
+        {
+          "client_id": "436845694682-erc2bfq9cpvbfn6fo32f0g9mq13oe8rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRBlmTkzJgI9aB818iY-exIzldQOrrIOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436845694682-erc2bfq9cpvbfn6fo32f0g9mq13oe8rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
